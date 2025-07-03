@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>내 생에 첫 홈페이지</title>
+    <style>
+        h1 {
+            color: blue;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>내 생에 첫 홈페이지</h1>
+</body>
+</html>
